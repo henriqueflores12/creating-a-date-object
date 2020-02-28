@@ -1,0 +1,22 @@
+body {
+  background-color: whitesmoke;
+  display: grid;
+  justify-content: center;
+  margin-top: 100px;
+  width: 100%;
+}
+#text {
+  background-color: gold;
+  border-style: double;
+  width: 100%;
+}
+#footer {
+  height: 200px;
+  width: 100%;
+  border-style: double;
+  display: grid;
+  justify-content: center;
+}
+#footer:hover {
+  background-color: lime;
+}
